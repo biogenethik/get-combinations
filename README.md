@@ -1,2 +1,2 @@
 # get-combinations
-algorithm to list all possible combinations for a set of elements
+algorithm to list all the possible combinations for a set of elements
