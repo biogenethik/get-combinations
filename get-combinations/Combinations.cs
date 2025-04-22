@@ -22,7 +22,7 @@
     {
         if (combinationAux.Count == combinationSize)
         {
-            combinations.Add(combinationAux);
+            combinations.Add(combinationAux.ToList());
             return;
         }
 
